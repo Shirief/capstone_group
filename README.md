@@ -1,1 +1,1 @@
-# capstone_group
+# otakushoppu.com
